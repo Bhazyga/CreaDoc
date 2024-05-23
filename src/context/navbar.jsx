@@ -129,15 +129,15 @@ export default function Navbar({navClass, manuClass,logoLight,smallButton}) {
                 {logoLight === true ? 
                 <Link className="logo" href="/">
                     <span className="logo-light-mode">
-                        <img src="/gambar/logo_kredok-removebg-preview.png"  width={118} height={100} className="l-dark" alt=""/>
-                        <img src="/gambar/logocreadoc-putih.png" width={118} height={98}  className="l-light" alt=""/>
+                        <img src="gambar/logo_kredok-removebg-preview.png"  width={118} height={100} className="l-dark" alt=""/>
+                        <img src="gambar/logocreadoc-putih.png" width={118} height={98}  className="l-light" alt=""/>
                     </span>
-                    <img src="/gambar/logo kredok.jpg" width={118} height={28}  className="logo-dark-mode" alt=""/>
+                    <img src="gambar/logo kredok.jpg" width={118} height={28}  className="logo-dark-mode" alt=""/>
                 </Link>:
 
                 <Link className="logo" href="/">
-                    <img src="/gambar/logo kredok.jpg"  width={118} height={28} className="logo-light-mode" alt=""/>
-                    <img src="/gambar/logo kredok.jpg" width={118} height={28}  className="logo-dark-mode" alt=""/>
+                    <img src="gambar/logo kredok.jpg"  width={118} height={28} className="logo-light-mode" alt=""/>
+                    <img src="gambar/logo kredok.jpg" width={118} height={28}  className="logo-dark-mode" alt=""/>
                 </Link>
                 }
 

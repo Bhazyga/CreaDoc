@@ -38,7 +38,7 @@ export default function IndexMultiBusiness(){
         </div>
         <Navbar navClass="defaultscroll sticky tagline-height" manuClass="navigation-menu nav-right nav-light" logoLight={true}/>
         <section className="bg-home zoom-image d-flex align-items-center"  id="home">
-            <div className="bg-overlay image-wrap" id="hero-images" style={{backgroundImage:"url('/gambar/DiskusiAkademikInfus (3).jpeg')"}}></div>
+            <div className="bg-overlay image-wrap" id="hero-images" style={{backgroundImage:"url('gambar/DiskusiAkademikInfus (3).jpeg')"}}></div>
             <div className="bg-overlay bg-linear-gradient-2" ></div>
             <div className="container">
                 <div className="row justify-content-center mt-5">
@@ -108,10 +108,10 @@ export default function IndexMultiBusiness(){
                 <div className="row align-items-center">
                     <div className="col-md-6">
                         <div className="about-image position-relative">
-                            <img src='/gambar/DiskusiAkademikInfus (2).jpeg' width={0} height={0} sizes="100vw" style={{width:"400px", height:'auto'}} className="img-fluid rounded shadow" alt=""/>
+                            <img src='gambar/DiskusiAkademikInfus (2).jpeg' width={0} height={0} sizes="100vw" style={{width:"400px", height:'auto'}} className="img-fluid rounded shadow" alt=""/>
 
                             <div className="about-image-position">
-                                <img src='/gambar/DiskusiAkademikInfus (3).jpeg' width={0} height={0} sizes="100vw" style={{width:"100%", height:'auto'}} className="img-fluid rounded shadow-lg" alt=""/>
+                                <img src='gambar/DiskusiAkademikInfus (3).jpeg' width={0} height={0} sizes="100vw" style={{width:"100%", height:'auto'}} className="img-fluid rounded shadow-lg" alt=""/>
                               <Modal/> 
                             </div>
                         </div>
@@ -140,7 +140,7 @@ export default function IndexMultiBusiness(){
                 <div className="row align-items-center">
                     <div className="col-md-6 order-1 order-md-2">
                         <div className="ms-lg-5">
-                            <img src='/gambar/DiskusiAkademikInfus (5).jpeg' width={0} height={0} sizes="100vw" style={{width:'100%', height:'auto'}} className="img-fluid rounded shadow" alt=""/>
+                            <img src='gambar/DiskusiAkademikInfus (5).jpeg' width={0} height={0} sizes="100vw" style={{width:'100%', height:'auto'}} className="img-fluid rounded shadow" alt=""/>
                         </div>
                     </div>
 
@@ -155,7 +155,7 @@ export default function IndexMultiBusiness(){
             </div>
         </section>
         <section className="position-relative" id="cta">
-            <ParallaxImage bgImage='/gambar/DiskusiAkademikInfus (11).jpeg'/>
+            <ParallaxImage bgImage='gambar/DiskusiAkademikInfus (11).jpeg'/>
             <div className="bg-overlay"></div>
             <div className="section">
                 <div className="container">

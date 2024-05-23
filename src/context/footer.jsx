@@ -38,7 +38,7 @@ export default function FooterBig(){
                             <div className="row">
                                 <div className="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
                                     <Link href="#" className="logo-footer">
-                                        <img src="/gambar/logocreadoc-putih.png" width={118} height={98} alt=""/>
+                                        <img src="gambar/logocreadoc-putih.png" width={118} height={98} alt=""/>
                                     </Link>
                                     <p className="mt-4">Start working with Creadoc that can provide everything you need to generate awareness, drive traffic, connect.</p>
                                     <ul className="list-unstyled social-icon foot-social-icon mb-0 mt-4">
@@ -88,7 +88,7 @@ export default function FooterBig(){
                                     </ul>
                                     <small className="d-block">Are you developer ? <Link href="#" className="text-foot fw-semibold">Learn More <MdArrowForward/></Link></small>
 
-                                    <img src="/gambar/logocreadoc-putih.png" width={84} height={78} className="mt-4" alt=""/>
+                                    <img src="gambar/logocreadoc-putih.png" width={84} height={78} className="mt-4" alt=""/>
                                 </div>
                             </div>
                         </div>
