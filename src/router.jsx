@@ -7,11 +7,11 @@ import IndexMultiBusiness from "./views/creadoc";
 
 const router = createBrowserRouter(    [
    {
-    path: '/index',
+    path: '/indextest',
     element: <Index/>
   },
    {
-    path: '/',
+    path: '/index',
     element: <IndexMultiBusiness/>
   },
 
