@@ -11,13 +11,13 @@ const router = createBrowserRouter(    [
     element: <Index/>
   },
    {
-    path: '/index',
+    path: '/*',
     element: <IndexMultiBusiness/>
   },
 
 
 {
-  path: '/*',
+  path: '/gaguna',
   element: <NotFound />
 },
 
